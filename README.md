@@ -1,4 +1,5 @@
 ✈️ Flight Fare Prediction — Machine Learning Project
+
 📌 Overview
 
 Flight prices fluctuate based on multiple factors such as airline, travel date, duration, number of stops, and route.
@@ -81,5 +82,6 @@ Pandas
 NumPy
 
 Matplotlib / Seaborn
+
 
 Scikit-learn
